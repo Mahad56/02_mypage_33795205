@@ -14,7 +14,7 @@ http.createServer(function(req, res) {
             <body>
                 <h1>Hello, I'm Mahad!</h1>
                 <h2>About Me</h2>
-                <p>I am a Comp Sci student at Goldsmiths.</p>
+                <p>I am a Computer Science student at Goldsmiths.</p>
             </body>
         </html>
     `);
