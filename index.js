@@ -11,7 +11,7 @@ res.end(`
         <head>
             <title>My Page</title>
         </head>
-        <body style="background-color: lightblue; text-align: center; font-family: Arial, sans-serif;">
+        <body style="background-color: red; text-align: center; font-family: Arial, sans-serif;">
             <h1>Hello, I'm Mahad!</h1>
             <h2>About Me</h2>
             <p>I am a Computer Science student at Goldsmiths.</p>
