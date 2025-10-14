@@ -12,6 +12,7 @@ http.createServer(function(req, res) {
                 <title>My Page</title>
             </head>
             <body>
+                style="background-color:powderblue;"
                 <h1>Hello, I'm Mahad!</h1>
                 <h2>About Me</h2>
                 <p>I am a Computer Science student at Goldsmiths.</p>
